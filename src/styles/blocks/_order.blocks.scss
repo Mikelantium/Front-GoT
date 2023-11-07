@@ -1,0 +1,17 @@
+.order {
+    
+    &-character{
+        &-img{     
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;         
+        }
+    }
+
+}
+.borderleft {
+    border-left: 3px white solid;
+}
+.border-top {
+    border-top: 3px white solid;
+}

@@ -1,0 +1,27 @@
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &-card {
+        width: 250px;
+        text-align: center;
+
+    }
+
+    &-info {
+        display: flex;
+        flex-wrap: wrap;
+        align-items:baseline;
+        justify-content: space-around;
+        width: 100%;
+        
+
+        &-detail {
+            text-align: center;
+        }
+
+    }
+}
+

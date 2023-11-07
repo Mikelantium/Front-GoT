@@ -1,0 +1,46 @@
+//SETTINGS
+@import "./styles/settings/fonts.settings";
+@import "./styles/settings/colors.settings";
+
+
+//EXTERNALS (IMPORTS) 
+@import "./styles/imports/blocks.imports";
+@import "./styles/imports/fonts.imports"; 
+@import "./styles/imports/simplebar.imports";
+
+//ELEMENTS
+@import "./styles/elements/h1.elements";
+@import "./styles/elements/h2.elements";
+@import "./styles/elements/h3.elements";
+@import "./styles/elements/h4.elements";
+@import "./styles/elements/p.elements";
+@import "./styles/elements/img.elements";
+
+//BLOCKS
+@import "./styles/blocks/header.blocks";
+@import "./styles/blocks/body.blocks";
+@import "./styles/blocks/footer.blocks";
+@import "./styles/blocks/text.blocks";
+@import "./styles/blocks/main.blocks";
+@import "./styles/blocks/details.blocks";
+@import "./styles/blocks/search.blocks";
+@import "./styles/blocks/hide.blocks";
+@import "./styles/blocks/order.blocks";
+@import "./styles/blocks/btnOrder.blocks";
+@import "./styles/blocks/containers.blocks"; 
+@import "./styles/blocks/bar.blocks"; 
+@import "./styles/blocks/return.blocks"; 
+
+//UTILS
+@import "./styles/utils/active.utils";
+@import "./styles/utils/shadow.utils";
+@import "./styles/utils/backgroundImg.utils";
+@import "./styles/utils/margins.utils"; 
+@import "./styles/utils/alignCenter.utils"; 
+@import "./styles/utils/paddings.utils"
+
+
+
+
+
+
